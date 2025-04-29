@@ -3,7 +3,7 @@
     <osoba osCislo='R1245'>
         <jmeno>Jan</jmeno>
         <prijmeni>Novák</prijmeni>
-        <stav>studuje</stav>
+        <stav>Nestuduje</stav>
         <obor>KMI</obor>
         <rocnik>2</rocnik>
         <email>jan.novak06@upol.cz</email>
